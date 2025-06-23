@@ -10,7 +10,7 @@ You can download my CV in PDF from this [google drive](https://drive.google.com/
 
 # Skills
 **Manual Testing**
-Conducted thorough manual testing including regression, usability, and exploratory testing to validate app functionality and user experience.<br/>
+Conducted thorough manual testing including regression, usability, and exploratory testing to validate app functionality and user experience./
 **API Testing**
 Performed API testing using Postman, including request validation, response assertions, and automating workflows through collections and environments.<br/>
 **Exploratory Testing**
