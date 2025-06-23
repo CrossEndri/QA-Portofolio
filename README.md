@@ -9,8 +9,8 @@ Driven by a love for learning and problem-solving, I enjoy tackling challenges a
 You can download my CV in PDF from this [google drive](https://drive.google.com/file/d/1O2d2tBSO1vE3EaMHyLl1Zd-JMxtJaHwi/view?usp=sharing) 
 
 # Skills
-**Manual Testing**
-Conducted thorough manual testing including regression, usability, and exploratory testing to validate app functionality and user experience./
+**Manual Testing**<br/>
+Conducted thorough manual testing including regression, usability, and exploratory testing to validate app functionality and user experience.<br/>
 **API Testing**
 Performed API testing using Postman, including request validation, response assertions, and automating workflows through collections and environments.<br/>
 **Exploratory Testing**
