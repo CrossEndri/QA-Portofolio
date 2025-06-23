@@ -33,13 +33,18 @@ Used to write automation scripts for browser-based testing using Playwright, sim
 # Tools
 **JIRA**<br/>
 Used for managing test cases, reporting bugs, and collaborating with PMs and developers on prioritization and issue tracking.<br/>
+
 **Postman**<br/>
 Leveraged for both manual and automated API testing, with experience in chaining requests, using test scripts, and environment variables.<br/>
+
 **JMeter**<br/>
 Executed performance/load tests to simulate high-volume traffic scenarios and analyze system responsiveness.<br/>
+
 **Katalon Studio**<br/>
 Experienced with record-and-playback, custom scripting, and test suite execution for web automation.<br/>
+
 **Playwright**<br/>
 Used JavaScript-based scripting for reliable and fast browser automation in modern web applications.<br/>
+
 **TestNG**<br/>
 Basic exposure to organizing and executing automated test cases in Java environments.<br/>
