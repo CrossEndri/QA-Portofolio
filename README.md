@@ -11,17 +11,23 @@ You can download my CV in PDF from this [google drive](https://drive.google.com/
 # Skills
 **Manual Testing**<br/>
 Conducted thorough manual testing including regression, usability, and exploratory testing to validate app functionality and user experience.<br/>
-**API Testing**
+
+**API Testing**<br/>
 Performed API testing using Postman, including request validation, response assertions, and automating workflows through collections and environments.<br/>
-**Exploratory Testing**
+
+**Exploratory Testing**<br/>
 Applied critical thinking to uncover edge cases and unexpected behaviors beyond scripted tests, especially in mobile applications.<br/>
-**Automation Testing**
+
+**Automation Testing**<br/>
 Gained hands-on experience automating web testing scenarios using Katalon Studio, Selenium (Java), and Playwright (JavaScript).<br/>
-**Test Documentation**
+
+**Test Documentation**<br/>
 Created and maintained clear and structured test plans, test cases, and bug reports aligned with organizational standards.<br/>
-**Java**
+
+**Java**<br/>
 Utilized for scripting in Selenium-based test automation, with a strong grasp of OOP concepts relevant to test frameworks.<br/>
-**Java Script**
+
+**Java Script**<br/>
 Used to write automation scripts for browser-based testing using Playwright, simulating real user interactions across different flows.<br/>
 
 # Tools
