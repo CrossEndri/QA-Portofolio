@@ -48,3 +48,10 @@ Used JavaScript-based scripting for reliable and fast browser automation in mode
 
 **TestNG**<br/>
 Basic exposure to organizing and executing automated test cases in Java environments.<br/>
+
+# Course
+**The Complete 2025 Software Testing Bootcamp**
+Online Course by [Tarek Roshdy](https://www.udemy.com/user/trq-rshd/)
+
+# My Work
+
