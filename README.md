@@ -51,7 +51,7 @@ Basic exposure to organizing and executing automated test cases in Java environm
 
 # Course
 **The Complete 2025 Software Testing Bootcamp**<br/>
-Online Course by [Tarek Roshdy](https://www.udemy.com/user/trq-rshd/)
+Online Course by [Tarek Roshdy](https://www.udemy.com/user/trq-rshd/)<br/>
 [Link to Certificate](https://www.udemy.com/certificate/UC-47790df6-2109-4240-9dca-b180209b98f2/)
 
 # My Work
