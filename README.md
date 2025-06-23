@@ -50,8 +50,9 @@ Used JavaScript-based scripting for reliable and fast browser automation in mode
 Basic exposure to organizing and executing automated test cases in Java environments.<br/>
 
 # Course
-**The Complete 2025 Software Testing Bootcamp**
+**The Complete 2025 Software Testing Bootcamp**<br/>
 Online Course by [Tarek Roshdy](https://www.udemy.com/user/trq-rshd/)
+[Link to Certificate](https://www.udemy.com/certificate/UC-47790df6-2109-4240-9dca-b180209b98f2/)
 
 # My Work
 
