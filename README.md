@@ -69,5 +69,5 @@ Here is the test case [link](https://docs.google.com/spreadsheets/d/1yc5y1buv0pP
 **Test Defect Evidence**<br/>
 Here is the test case [link](https://docs.google.com/spreadsheets/d/12vKe6etr4JmTboR8-wCJ6obzaAuvZrsPQHCmq30unqc/edit?usp=sharing)<br/>
 
-**Automation**
+**Automation**<br/>
 Automation with [Selenium](https://github.com/CrossEndri/herokuAppSelenium), Automation with [Playwright](https://github.com/CrossEndri/herokuAppPlaywright), Automation with [Katalon](https://github.com/CrossEndri/herokuAppKatalon)
